@@ -1,6 +1,6 @@
 # RTCK Portfolio 2026 / Portfolio Template
 
-[RTCK (KAZUKI TANAKA)](https://rtck-reina.com) のポートフォリオサイトであり、同時に誰でも自分のポートフォリオとして再利用できる A4 印刷対応テンプレートでもあります。
+[RTCK (KAZUKI TANAKA)](https://rtck-dev.com) のポートフォリオサイトであり、同時に誰でも自分のポートフォリオとして再利用できる A4 印刷対応テンプレートでもあります。
 
 - 本リポジトリの `portfolio.config.json` / 作品画像は **RTCK 本人の作品データ**です
 - `index.html` / `renderer.js` はデータ駆動のテンプレートとして汎用化されています
